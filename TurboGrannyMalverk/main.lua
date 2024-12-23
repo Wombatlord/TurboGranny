@@ -10,6 +10,7 @@ AltTexture({
     key = 'turbo_granny',
     set = 'Joker',
     path = 'turbo_granny.png',
+    keys = { "j_lucky_cat" },
 })
 
 TexturePack({
